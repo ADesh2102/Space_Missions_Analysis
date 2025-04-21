@@ -63,3 +63,10 @@ The month with the highest number of launches is November 2024, with 32 launches
 December is the most active month historically with 748 launches.
 
 January shows the least activity, with only 434 launches.
+
+🛠 Tools & Libraries
+Python
+Pandas
+Matplotlib / Seaborn
+Google Colab (for running notebooks)
+
